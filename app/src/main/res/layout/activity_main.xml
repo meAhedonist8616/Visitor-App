@@ -13,7 +13,7 @@
         android:background="#000000"
         android:textSize="30dp"
         android:textColor="@color/white"
-        android:layout_margin="30dp"/>
+        android:layout_margin="25dp"/>
     <androidx.appcompat.widget.AppCompatButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -22,5 +22,5 @@
         android:background="#000000"
         android:textSize="30dp"
         android:textColor="@color/white"
-        android:layout_margin="30dp"/>
+        android:layout_margin="25dp"/>
 </LinearLayout>
